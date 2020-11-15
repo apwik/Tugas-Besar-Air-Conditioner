@@ -13,3 +13,7 @@ v1.2 = Penambahan fitur mode hemat energi dan anti bacteria + all starting varia
 v1.3 = Pengubahan fitur fan, swing, mode hemat energi, dan mode anti bakteri sehingga hanya 1 tombol/fitur
 
 v1.4 = Penambahan mode yang nantinya dilakukan perombakan untuk versi v2.x
+
+v2.0 = [BUG] Pengaplikasian array[] supaya tiap mode memiliki pengaturan suhu, fan, dan swing masing-masing
+
+v2.1 = Merampungkan v2.0 serta menetapkan suhu maks/min yang berbeda antarmode
