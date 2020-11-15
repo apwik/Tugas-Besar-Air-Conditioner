@@ -34,8 +34,8 @@ def clear():
 
 def visual():
     if switch == True:
-        print(f'Temp: {temp}   '  + f'Fan: {fan}')
-        print(f'Mode: {mode[i]}    ' + f'Swing: {swing}')
+        print(f'Temp: {temp[i]}   '  + f'Fan: {fan[i]}')
+        print(f'Mode: {mode[i]}    ' + f'Swing: {swing[i]}')
         print(f'Anti Bacteria Mode: {anti_b}    ' + f'Energy Saving Mode: {energy_s}   ')
     else:
         print("OFF")
